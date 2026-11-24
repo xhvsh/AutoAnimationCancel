@@ -1,3 +1,5 @@
+<p align="center"><img src="icon.png" alt="AAC icon" width="256"></p>
+
 # (AAC) Auto Animation Cancel
 
 A [SMAPI](https://smapi.io/) mod for Stardew Valley that cancels tool animations the moment the hit lands, allowing faster consecutive swings with a single keybind.
