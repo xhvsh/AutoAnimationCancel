@@ -1,0 +1,10 @@
+{
+  "Name": "(AAC) Auto Animation Cancel",
+  "Author": "xhvsh",
+  "Version": "1.0.0",
+  "Description": "Press Space to swing; the follow-through is cancelled the instant the hit lands. Misclick guard, no ghost swings. Client-side.",
+  "UniqueID": "xhvsh.AutoAnimationCancel",
+  "EntryDll": "AutoAnimationCancel.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
