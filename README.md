@@ -52,6 +52,6 @@ dotnet build -c Release
 
 [Pathoschild.Stardew.ModBuildConfig](https://www.nuget.org/packages/Pathoschild.Stardew.ModBuildConfig) finds your game folder, copies the mod into `Mods`, and creates a release zip in `bin/Release/net6.0/`. If your game is in a custom location, add `<GamePath>…</GamePath>` to the `.csproj`.
 
-## Author
+## Contact
 
-[xhvsh](https://github.com/xhvsh)
+For questions or issues, contact `@xhvsh` on Discord.
